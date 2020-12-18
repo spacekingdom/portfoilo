@@ -1,0 +1,142 @@
+*{margin: 0; }
+
+html{font-size: 10px; }
+body{font-size: 1rem;}
+a{text-decoration: none;}
+
+header{background-color: #ffffff; width: 100%;height: 5rem; position: fixed; left: 0;right: 0;bottom: 0; z-index: 9999;}
+header > nav{margin: auto; width: 41.4rem; height: 5rem; display:flex; justify-content:center; align-items: center;}
+
+/*--메뉴--*/
+header > nav > .menu{display: inline-block; width: 100%}
+header > nav > .menu > ul{list-style: none; margin:0 1rem;}
+header > nav > .menu > ul > li{float: left;margin:0 1rem;}
+header > nav > .menu > ul > li > a{color: #08598E; font-family: 'Roboto', sans-serif; font-size: 1.2rem; font-weight: 3 00;letter-spacing: 0.025rem; text-decoration: none;}
+
+section > .keyvisual{text-align: center; background-image: url('../img/mobile/bg_01.png'); height: 68.6rem;}
+section > .keyvisual > img {padding-top: 22.4rem;}
+
+section > .profile{margin: auto; padding-bottom: 3rem;}
+section > .profile > .profile_01{margin: auto; padding-top: 5rem;}
+section > .profile > .profile_02{margin: auto; padding-top: 3rem;}
+section > .profile > .profile_03{margin: auto; padding-top: 3rem;}
+section > .profile > .profile_04{margin: auto; padding-top: 3rem;}
+section > .profile > .profile_05{margin: auto; padding-top: 3rem;}
+section > .profile > .profile_06{margin: auto; padding-top: 3rem;}
+
+/*서브01*/
+section > .pf01{text-align: center; background-image: url('../img/mobile/sub01/bg_01.png'); height: 60rem; }
+section > .pf01 > img{margin: auto;padding-top: 3.3rem;}
+
+section > .pf02{text-align: center;}
+section > .pf02 > img{margin: auto; padding-top: 3rem;}
+
+section > .pf03{text-align: center;}
+section > .pf03 > img{margin: auto; padding-top: 1rem;}
+
+section > .pf04{text-align: center;}
+section > .pf04 > img{margin: auto; padding-top: 2rem;}
+
+section > .pf05{text-align: center;}
+section > .pf05 > img{margin: auto; padding-top: 1rem;}
+
+section > .pf06{text-align: center; background-color: #0083CE; height: 45rem;}
+section > .pf06 > img{margin: auto; }
+
+section > .pf07{text-align: center;}
+section > .pf07 > img{margin: auto; padding-top: 1rem;}
+
+section > .pf08{text-align: center; background-image: url('../img/mobile/sub01/bg_02.png'); height: 60rem;}
+section > .pf08 > img{margin: auto; padding-top: 3.3rem;}
+
+section > .pf09{text-align: center;}
+section > .pf09 > img{margin: auto; padding-top: 3rem;}
+
+section > .pf10{text-align: center;}
+section > .pf10 > img{margin: auto; padding-top: 1rem;}
+
+section > .pf11{text-align: center;}
+section > .pf11 > img{margin: auto; padding-top: 2rem;}
+
+section > .pf12{text-align: center;}
+section > .pf12 > img{margin: auto; padding-top: 1rem;}
+
+section > .pf13{text-align: center;}
+section > .pf13 > img{margin: auto;}
+
+section > .pf14{text-align: center;}
+section > .pf14 > img{margin: auto;}
+
+/*서브02*/
+section > .sub02_pf01{text-align: center; background-image: url('../img/mobile/sub02/bg_01.png'); height: 60rem;}
+section > .sub02_pf01 > img{margin: auto; padding-top: 3.3rem;}
+
+section > .sub02_pf02{text-align: center;}
+section > .sub02_pf02 > img{margin: auto; padding-top: 3rem;}
+
+section > .sub02_pf03{text-align: center;}
+section > .sub02_pf03 > img{margin: auto; padding-top: 1rem;}
+
+section > .sub02_pf04{text-align: center;}
+section > .sub02_pf04 > img{margin: auto; padding-top: 2rem;}
+
+section > .sub02_pf05{text-align: center;}
+section > .sub02_pf05 > img{margin: auto; padding-top: 1rem;}
+
+/*서브03*/
+section > .sub03_pf01{text-align: center; background-image: url('../img/mobile/sub03/bg_01.png'); height: 60rem;}
+section > .sub03_pf01 > img{margin: auto; padding-top: 3.3rem;}
+
+section > .sub03_pf02{text-align: center;}
+section > .sub03_pf02 > img{margin: auto; padding-top: 3rem;}
+
+section > .sub03_pf03{text-align: center;}
+section > .sub03_pf03 > img{margin: auto; padding-top: 1rem;}
+
+section > .sub03_pf04{text-align: center;}
+section > .sub03_pf04 > img{margin: auto; padding-top: 1rem;}
+
+section > .sub03_pf05{text-align: center;}
+section > .sub03_pf05 > img{margin: auto;}
+
+section > .sub03_pf06{text-align: center;}
+section > .sub03_pf06 > img{margin: auto;}
+
+/*서브04*/
+section > .sub04_pf01{text-align: center; background-image: url('../img/mobile/sub04/bg_01.png'); height: 60rem;}
+section > .sub04_pf01 > img{margin: auto; padding-top: 3.3rem;}
+
+section > .sub04_pf02{text-align: center;}
+section > .sub04_pf02 > img{margin: auto; padding-top: 3rem;}
+
+section > .sub04_pf03{text-align: center;}
+section > .sub04_pf03 > img{margin: auto; padding-top: 1rem;}
+
+section > .sub04_pf04{text-align: center;}
+section > .sub04_pf04 > img{margin: auto; padding-top: 1rem;}
+
+section > .sub04_pf05{text-align: center;}
+section > .sub04_pf05 > img{margin: auto;}
+
+section > .sub04_pf06{text-align: center;}
+section > .sub04_pf06 > img{margin: auto;}
+
+section > .sub04_pf06{text-align: center;}
+section > .sub04_pf06 > img{margin: auto;}
+
+section > .sub04_pf07{text-align: center;}
+section > .sub04_pf07 > img{margin: auto;}
+
+section > .sub04_pf08{text-align: center;}
+section > .sub04_pf08 > img{margin: auto;}
+
+
+
+
+/*--카피라이트--*/
+footer{background-color: #8E8E8E; height: 5rem;padding-bottom: 5rem;}
+footer > .footer_wrap{margin: auto; width: 41.4rem; text-align: center; padding-top: 1rem;}
+footer > .footer_wrap > .footer_txt{color: #ffffff; font-family : 'Noto Sans KR', sans-serif; font-size: 1rem; font-weight: 400;}
+
+
+.top_bt{background-image: url('../img/mobile/top_bt_01.png'); position: fixed; width: 3rem; height: 3rem; right: 3rem; bottom: 5.5rem;}
